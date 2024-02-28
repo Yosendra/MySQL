@@ -3,3 +3,7 @@ In order to manage our database, we use a software application called Database M
 We connect to a DBMS and give it instruction for querying or modifying data.
 The DBMS will execute our instruction and send results back.
 DBMS can be classified into two categories, relational and non relational (also called NoSQL).
+
+Install MySQL Community Server : https://dev.mysql.com/downloads/mysql/
+Install MySQL Workbench        : https://dev.mysql.com/downloads/workbench/
+If you also install Xampp, change the port for this MySQL Server to other than 3306. For example 3307.
