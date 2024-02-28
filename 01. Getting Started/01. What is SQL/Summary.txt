@@ -1,0 +1,5 @@
+Database is a collection of data, stored in a format that can easily be accessed.
+In order to manage our database, we use a software application called Database Management System (DBMS).
+We connect to a DBMS and give it instruction for querying or modifying data.
+The DBMS will execute our instruction and send results back.
+DBMS can be classified into two categories, relational and non relational (also called NoSQL).
